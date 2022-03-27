@@ -12,13 +12,13 @@ Successful outcomes remained above above 50 percent until December.
 Success outcomes trend higher between March and May (peak). Then declining through December.
 Trends for failed and canceled outcomes appear to be somewhat flat throughout the observed period.
 There appears to be  missing data for cancelled campaigns in October.
-[Outcomes vs Launch](https://github.com/krismbah/Kickstarter-Analysis/blob/main/Theater%20Outcomes%20vs%20launch.png)
+[Outcomes vs Launch](https://raw.githubusercontent.com/krismbah/Kickstarter-Analysis/main/Theater%20Outcomes%20vs%20launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Outcomes appear to be at their highest percentage of success when goals are below $4,999. 
 However there also appears to be an increase in successful campaigns when goals are between the $25,000 to $44,999 mark.
 There were no cancelled campaigns.
-[Outcomes vs Goals](https://github.com/krismbah/Kickstarter-Analysis/blob/main/Outcomes%20vs%20Goals.png)
+[Outcomes vs Goals](https://raw.githubusercontent.com/krismbah/Kickstarter-Analysis/main/Outcomes%20vs%20Goals.png)
 
 ### Challenges and Difficulties Encountered
 I didn't encounter much difficulty in  this project. There were challenges in clarity regarding the requested outcomes.
