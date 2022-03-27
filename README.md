@@ -28,12 +28,12 @@ Also, using "successful", "failed", and "cancelled" as criteria in the COUNTIFS(
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1)May is the best month to launch a successful campaign.
-2)December is the worst month to launch a successful campaign.
+  1)May is the best month to launch a successful campaign.
+  2)December is the worst month to launch a successful campaign.
 
 - What can you conclude about the Outcomes based on Goals?
-1)There's an inverse relationship in outcomes and campaign goals.
-2)The highest percentage of successful outcomes are below $4,999.
+  1)There's an inverse relationship in outcomes and campaign goals.
+  2)The highest percentage of successful outcomes are below $4,999.
 
 - What are some limitations of this dataset?
 I just noticed that id# 3529 is an actual play by a theatre company in my home town of Kalamazoo. 
